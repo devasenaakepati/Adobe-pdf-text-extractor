@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "documents": [
+      "adobe ib input.pdf"
+    ],
+    "persona": "Fintech Product Manager",
+    "job_to_be_done": "Understand recent advancements in blockchain for secure digital payments\r\n",
+    "timestamp": "2025-07-27 13:45:24"
+  },
+  "sections": [
+    {
+      "document": "uploaded_pdfs\\adobe ib input.pdf",
+      "page": 60,
+      "section_title": "To better understand  how  medical center and biologically relevant information are encoded in",
+      "importance_rank": 0.427,
+      "refined_text": "To better understand  how  medical center and biologically relevant information are encoded in"
+    },
+    {
+      "document": "uploaded_pdfs\\adobe ib input.pdf",
+      "page": 1,
+      "section_title": "Towards Robust Foundation Models for Digital Pathology",
+      "importance_rank": 0.408,
+      "refined_text": "Towards Robust Foundation Models for Digital Pathology"
+    },
+    {
+      "document": "uploaded_pdfs\\adobe ib input.pdf",
+      "page": 48,
+      "section_title": "This breakdown shows that robustness varies substantially across different categories, for both biological and",
+      "importance_rank": 0.404,
+      "refined_text": "This breakdown shows that robustness varies substantially across different categories, for both biological and"
+    },
+    {
+      "document": "uploaded_pdfs\\adobe ib input.pdf",
+      "page": 1,
+      "section_title": "including the  robustness index , and four datasets covering 28 biological classes",
+      "importance_rank": 0.4,
+      "refined_text": "including the  robustness index , and four datasets covering 28 biological classes"
+    },
+    {
+      "document": "uploaded_pdfs\\adobe ib input.pdf",
+      "page": 12,
+      "section_title": "the global structure of the representation space (see Methods Section 4",
+      "importance_rank": 0.4,
+      "refined_text": "the global structure of the representation space (see Methods Section 4.6 for details)."
+    },
+    {
+      "document": "uploaded_pdfs\\adobe ib input.pdf",
+      "page": 25,
+      "section_title": "Kang",
+      "importance_rank": 0.4,
+      "refined_text": "Kang. BioBERT: a pre-trained biomedical language representation model for biomedical text mining."
+    },
+    {
+      "document": "uploaded_pdfs\\adobe ib input.pdf",
+      "page": 51,
+      "section_title": "strong performance on the first split) and the necessary information (even for the skewed splits,",
+      "importance_rank": 0.4,
+      "refined_text": "strong performance on the first split) and the necessary information (even for the skewed splits,"
+    },
+    {
+      "document": "uploaded_pdfs\\adobe ib input.pdf",
+      "page": 18,
+      "section_title": "training procedures to remove undesired non-biological features",
+      "importance_rank": 0.398,
+      "refined_text": "training procedures to remove undesired non-biological features. This could offer a practical"
+    },
+    {
+      "document": "uploaded_pdfs\\adobe ib input.pdf",
+      "page": 5,
+      "section_title": "reflecting actual underlying biology and morphology",
+      "importance_rank": 0.394,
+      "refined_text": "reflecting actual underlying biology and morphology. We refer to all remaining features as"
+    },
+    {
+      "document": "uploaded_pdfs\\adobe ib input.pdf",
+      "page": 15,
+      "section_title": "yielded the most consistent improvements, even transforming the lowest observed clustering",
+      "importance_rank": 0.394,
+      "refined_text": "yielded the most consistent improvements, even transforming the lowest observed clustering"
+    }
+  ]
+}
