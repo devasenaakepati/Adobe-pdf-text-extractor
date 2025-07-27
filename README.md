@@ -32,7 +32,7 @@ This project is a simple and lightweight tool that extracts **clean full text** 
 
 ## 🚀 How to Run Locally
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/<your-username>/pdf-text-extractor.git
