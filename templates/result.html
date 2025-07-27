@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ranked Output – Adobe Section Ranker</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #ff0000, #222);
+      color: white;
+      padding: 30px;
+    }
+    .container {
+      background-color: #333;
+      padding: 20px;
+      border-radius: 10px;
+      max-width: 800px;
+      margin: auto;
+      box-shadow: 0 0 10px #000;
+    }
+    pre {
+      background: #111;
+      padding: 15px;
+      border-radius: 8px;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+    .btn-group {
+      margin-top: 20px;
+    }
+    a.button {
+      display: inline-block;
+      margin-right: 10px;
+      background: #e60000;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+    }
+    a.button:hover {
+      background: #cc0000;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Extracted & Ranked Sections</h2>
+    <pre id="json">{{ result_json | safe }}</pre>
+    <div class="btn-group">
+      <a class="button" href="/download" download="output.json">⬇ Download JSON</a>
+      <a class="button" href="/">🔁 Try Another Query</a>
+    </div>
+  </div>
+</body>
+</html>
